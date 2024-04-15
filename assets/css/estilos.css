@@ -2,6 +2,11 @@ body {
   font-family: "Raleway", sans-serif;
 }
 
+/* navbar */
+.container a {
+  font-family: "Changa", sans-serif;
+}
+
 /* Hero Section */
 
 #Hero-Section {
@@ -32,8 +37,7 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
-
 }
