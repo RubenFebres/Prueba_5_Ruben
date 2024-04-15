@@ -3,8 +3,12 @@ body {
 }
 
 /* navbar */
-.container a {
+.navbar {
+  height: 72px;
+}
+.name {
   font-family: "Changa", sans-serif;
+  font-size: 30px;
 }
 
 /* Hero Section */
